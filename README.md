@@ -1,7 +1,17 @@
-## 모집 준비중
+<h1 align="center"> 10th Builders </h1>
+
+<div align="center">
+<a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
+<a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+<br>
+
+> Welcome to the repository for Pseudo Lab's 10th Builder! We aim to nurture the community and develop global leaders, offering tools and frameworks for building new AI/DS projects. Join us in advancing the field of AI/DS through open collaboration and innovation!
+
+## 러너 모집 준비중
 10기 아카데미 러너(팀원) 모집 준비중...! <br/>
-빌더(운영진) 모집은 상시로 진행되며, 프로젝트를 빌드하시며 참여해보시기를 추천드립니다!
-=> [신청 링크](https://forms.gle/#####)
+추가 빌더(운영진) 모집은 추천제로만 진행됩니다! 현재 활동중인 빌더에게 추천을 요청해보세요!
 
 ## 주요 일정
 - 모집 기간: 2/15(토)-2/22(토)
