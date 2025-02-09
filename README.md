@@ -1,7 +1,17 @@
-## 모집 준비중
+<h1 align="center"> 10th Builders </h1>
+
+<div align="center">
+<a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
+<a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-builder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+<br>
+
+> Welcome to the repository for Pseudo Lab's 10th Builder! We aim to nurture the community and develop global leaders, offering tools and frameworks for building new AI/DS projects. Join us in advancing the field of AI/DS through open collaboration and innovation!
+
+## 러너 모집 준비중
 10기 아카데미 러너(팀원) 모집 준비중...! <br/>
-빌더(운영진) 모집은 상시로 진행되며, 프로젝트를 빌드하시며 참여해보시기를 추천드립니다!
-=> [신청 링크](https://forms.gle/#####)
+추가 빌더(운영진) 모집은 추천제로만 진행됩니다! 현재 활동중인 빌더에게 추천을 요청해보세요!
 
 ## 주요 일정
 - 모집 기간: 2/15(토)-2/22(토)
@@ -38,7 +48,8 @@
 
 |  | | | |
 |---|------|-------|---------|
-|   <img src = "https://avatars1.githubusercontent.com/u/4317641?s=460&u=8d90f1833f528e5a62e26b7f6af5c9868d2820af&v=4" width="128px;"/> <br/> [김찬란](https://github.com/seriousran) (빌더) <br/> NVIDIA <br/> 1기~ <br/>  <br/> |  <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |
+|   <img src = "https://avatars1.githubusercontent.com/u/4317641?s=460&u=8d90f1833f528e5a62e26b7f6af5c9868d2820af&v=4" width="128px;"/> <br/> [김찬란](https://github.com/seriousran) (빌더) <br/> NVIDIA <br/> 1기~ <br/>  <br/> |  <img src="https://avatars.githubusercontent.com/u/60315070?s=400&u=778854dfa9e806ceb1bc3e8d6cf30634df316c15&v=4" width = "128px;" /> <br/> [박상호](https://www.linkedin.com/in/shstat1729/) (빌더) <br/> 성균관대학교 (SKKU) <br/> 7기~ <br/> From Fixed to Flexible: <br/> Your Guide to <br/> Adaptive & Master Protocols <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |
 |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |
 |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |
-|   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://github.com/user-attachments/assets/3eeda269-61f4-4559-9605-7960319c432e" width="128px;"/> <br/> [박원기](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> PseudoLab <br/> 5기~ <br/> Pseudo3DV <br/> |   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |
+|   <img src = "https://pseudolab.github.io/assets/images/Pseudo_Lab_logo.png" width="128px;"/> <br/> [name](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> belonging <br/> #기~ <br/> title <br/> |   <img src = "https://github.com/user-attachments/assets/3eeda269-61f4-4559-9605-7960319c432e" width="128px;"/> <br/> [박원기](https://github.com/Pseudo-Lab/10th-builder) (빌더) <br/> PseudoLab <br/> 5기~ <br/> Pseudo3DV <br/> |   <img src = "https://github.com/user-attachments/assets/c76da22e-a02a-485e-9d0b-2ffdd2756de5" width="128px;"/> <br/> [최성준](https://github.com/DrawingProcess) (빌더) <br/> 연세대학교 <br/> 9기~ <br/> Pseudo3DV <br/> |   <img src = "https://github.com/user-attachments/assets/ba3f4867-ab67-4ad7-85b4-35a7d60ab3b9" width="128px;"/> <br/> [김성은](https://github.com/ssungni) (빌더) <br/> 아주대학교 <br/> 10기~ <br/> NLP 기초 논문 스터디 <br/> |
+
